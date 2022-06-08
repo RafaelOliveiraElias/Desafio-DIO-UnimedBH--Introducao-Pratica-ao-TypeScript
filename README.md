@@ -1,6 +1,6 @@
 # Desafio DIO/Bootcamp UnimedBH- Introdução Prática ao TypeScript
 
-DESCRIÇÃO DO DESAFIO
+DESCRIÇÃO DO DESAFIO: 
 Criou-se um projeto em TypeScript com uma abordagem totalmente prática, com a ajuda de um expert que apresenta os tipos e padrões mais utilizados no desenvolvimento com essa linguagem.
 Por fim, resolve-se alguns desafios disponibilizados no GitHub do expert (https://github.com/lira1705/mentoria-typescript/tree/main/src/desafios).
 Sendo assim, criou-se esse repositório no GitHub para versionar das soluções e, de quebra, aumentar o portfolio pessoa de tecnologias/conhecimentos.
